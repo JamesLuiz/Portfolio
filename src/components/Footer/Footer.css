@@ -1,0 +1,79 @@
+footer{
+    background: var(--color-bg-variant);
+    padding: 3rem 0;
+    text-align: center;
+    font-size: 0.9rem;
+    margin-top: 7rem;
+}
+
+.footer__logo {
+    font-size: 2rem;
+    font-weight: 500;
+    margin-bottom: 2rem;
+    display: inline-block;
+}
+
+.permalinks {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 3rem;
+    margin: 0 auto 3rem;
+}
+
+.footer__socials {
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+    margin-bottom: 4rem;
+}
+
+.footer__socials a {
+    padding: 0.8rem;
+    border-radius: 0.7rem;
+    display: flex;
+    border: 1px solid transparent;
+    background: var(--color-bg);
+}
+
+
+.footer__socials a:hover {
+    background: transparent;
+    color: var(--color-primary);
+    border-color: var(--color-primary);
+}
+
+.mission {
+    text-align: center;
+    width: 300px;       /* Set the width */
+    height: 100px;
+    bottom: 5rem;
+    font-weight: 400;
+    border-radius: 2rem;
+    padding: 10px;      /* Provide some padding so the content isn't right up against the border */
+    margin: 10px auto;  /* Center the box horizontally */
+    text-align: center;  /* Center the text horizontally */
+    display: flex;  /* Set the display to Flex */
+    justify-content: center;  /* Center the content vertically (with Flex) */
+    align-items: center;  /* Center the content horizontally (with Flex) */
+    box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.1);
+    color: var(--color-primary);
+    background-color: var(--color-bg);
+
+}
+
+@media screen and (max-width: 600px){
+    .permalinks {
+        flex-direction: column;
+        gap: 1.5rem;
+
+    }
+
+    .mission{
+        background-color: transparent;
+    }
+
+    .footer__socials {
+        margin-bottom: 4rem;
+    }
+}
