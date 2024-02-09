@@ -3,6 +3,7 @@ import './Contact.css'
 import {SiMinutemailer} from 'react-icons/si'
 import {BsWhatsapp} from 'react-icons/bs'
 import {BsTwitter} from 'react-icons/bs'
+import { FaLinkedin } from "react-icons/fa"
 import emailjs from 'emailjs-com'
 import Paragraphs from '../TextAnimation/Paragrapgh';
 import Slide from 'react-reveal/Slide'
@@ -60,7 +61,12 @@ const Contact = () => {
           <article className="contact__option">
             <BsTwitter className='contact__option-icon'/>
             <h4>Tweet</h4>
-            <a href="https://twitter.com/jamesluiz18" target='_blank'>Folow me and get in touch</a>
+            <a href="https://twitter.com/eliezerjames92" target='_blank'>Folow me and get in touch</a>
+          </article>
+          <article className="contact__option">
+            <FaLinkedin className='contact__option-icon'/>
+            <h4>Connect on linkedin</h4>
+            <a href="https://www.linkedin.com/in/eliezer-james-41ba0b252/" target='_blank'>Connect</a>
           </article>
         </div>
 

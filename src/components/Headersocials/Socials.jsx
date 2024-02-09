@@ -6,6 +6,7 @@ import {BsTwitter} from 'react-icons/bs'
 import {BiLogoInstagramAlt} from 'react-icons/bi'
 import {BsFacebook} from 'react-icons/bs'
 import {FaWhatsappSquare} from 'react-icons/fa'
+import { FaLinkedin } from "react-icons/fa"
 const Socials = () => {
 
   const [animationIndex, setAnimationIndex] = useState(0);
@@ -23,7 +24,8 @@ const Socials = () => {
           onComplete={handleAnimationComplete} 
         />
       )}</a>
-        <a href="https://twitter.com/Jamesluiz18" target='_blank'><BsTwitter/> {animationIndex === 1 && (
+
+        <a href="https://twitter.com/eliezerjames92" target='_blank'><BsTwitter/> {animationIndex === 1 && (
         <TypedText 
           text="Twitter  " 
           typeSpeed={100} 
@@ -51,6 +53,15 @@ const Socials = () => {
         <TypedText 
           text="Whatsapp  " 
           typeSpeed={100} 
+          start={true} 
+          onComplete={handleAnimationComplete} 
+        />
+      )}</a>
+
+      <a href="https://www.linkedin.com/in/eliezer-james-41ba0b252/" target='_blank'> <FaLinkedin />  {animationIndex === 5 && (
+        <TypedText 
+          text="Linkedin  "
+          typeSpeed={120} 
           start={true} 
           onComplete={handleAnimationComplete} 
         />

@@ -59,7 +59,7 @@ const Experience = () => {
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon"/>
               <div>
-                <h4>React</h4>
+                <h4>C</h4>
                 <small className="text-light"> Experienced </small>
               </div>
             </article>
@@ -146,33 +146,10 @@ const Experience = () => {
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon"/>
               <div>
-              <h4>Infura</h4>
+              <h4>Endpoint providers</h4>
               <small className="text-light"> Experienced </small>
               </div>
             </article>
-
-            <article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icon"/>
-              <div>
-              <h4>Alchemy</h4>
-              <small className="text-light"> Experienced </small>
-              </div>
-            </article>
-            <article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icon"/>
-              <div>
-              <h4>Quicknode</h4>
-              <small className="text-light"> Experienced </small>
-              </div>
-            </article>
-            <article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icon"/>
-              <div>
-              <h4>Vigil</h4>
-              <small className="text-light"> Experienced </small>
-              </div>
-            </article>
-
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon"/>
               <div>
@@ -192,7 +169,7 @@ const Experience = () => {
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon"/>
               <div>
-              <h4>Metamask</h4>
+              <h4>Wallet integrations</h4>
               <small className="text-light"> Experienced </small>
               </div>
             </article>

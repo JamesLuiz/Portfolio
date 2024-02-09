@@ -1,6 +1,6 @@
 import React, {useEffect, useRef, useState} from 'react'
 import './About.css'
-import Me from '../../assets/slide2.png'
+import Me from '../../assets/Dp(2).png'
 import {VscMap} from 'react-icons/vsc'
 import {VscFeedback} from 'react-icons/vsc'
 import {VscRocket} from 'react-icons/vsc'
@@ -48,7 +48,7 @@ const About = () => {
             <article className="about__card">
               <VscMap className="about__icon"/>
               <h5>Experience</h5>
-              <small>3+ years working experience</small>
+              <small>2+ years working experience</small>
             </article>
 
 
@@ -68,15 +68,8 @@ const About = () => {
           <p style={{color: 'white', backgroundColor: '#2c2c6c', textAlign: 'center', padding: '2rem', borderRadius: '2rem', fontSize: '0.8rem'}}>
               I am a Blockchain developer with strong
               passion for blockchain technologies and
-              innovations. I understand
-              blockchain principles and cryptographic protocols, I
-              build decentralized applications,
-              I'm also proficient in
-              programming languages commonly used in
-              blockchain development and Dapp integrations, 
-              I work well with EVM compatible platforms,
-              and I'm experienced with web
-              development frameworks and technologies.
+              innovations.  
+              I work well with EVM compatible platforms and build different kinds of smart contracts and Dapp integrations,
               Let me know how my skills can contribute to the growth of your company.
           </p>
             
