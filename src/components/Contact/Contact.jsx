@@ -16,7 +16,7 @@ const Contact = () => {
   };
 
   const maintext = [
-    "I appreciate your getting touch!",
+    "I appreciate you getting in touch!",
     "I'll respond to you shortly",
     "Thank you!"
   ];
