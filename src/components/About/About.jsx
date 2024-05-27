@@ -48,7 +48,7 @@ const About = () => {
             <article className="about__card">
               <VscMap className="about__icon"/>
               <h5>Experience</h5>
-              <small>2+ years working experience</small>
+              <small>3+ years working experience</small>
             </article>
 
 
