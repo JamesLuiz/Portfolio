@@ -61,7 +61,7 @@ const Contact = () => {
           <article className="contact__option">
             <BsTwitter className='contact__option-icon'/>
             <h4>Tweet</h4>
-            <a href="https://twitter.com/eliezerjames92" target='_blank'>Folow me and get in touch</a>
+              <a href="https://x.com/Devbot_Luiz" target='_blank'>Folow me and get in touch</a>
           </article>
           <article className="contact__option">
             <FaLinkedin className='contact__option-icon'/>

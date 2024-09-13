@@ -42,13 +42,7 @@ const Experience = () => {
                 <small className="text-light"> Experienced </small>
               </div>
             </article>
-            <article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icon"/>
-              <div>
-              <h4>CSS</h4>
-              <small className="text-light"> Experienced </small>
-              </div>
-            </article>
+            
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon"/>
               <div>
@@ -56,27 +50,9 @@ const Experience = () => {
               <small className="text-light"> Experienced </small>
               </div>
             </article>
-            <article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icon"/>
-              <div>
-                <h4>C</h4>
-                <small className="text-light"> Experienced </small>
-              </div>
-            </article>
-            <article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icon"/>
-              <div>
-                <h4>Swiper js</h4>
-                <small className="text-light"> Experienced </small>
-              </div>
-            </article>
-            <article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icon"/>
-              <div>
-                <h4>Typedjs</h4>
-                <small className="text-light"> Experienced </small>
-              </div>
-            </article>
+    
+           
+           
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon"/>
               <div>
@@ -114,7 +90,7 @@ const Experience = () => {
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon"/>
               <div>
-              <h4>Solidity</h4>
+              <h4>Solidity and smart contracts</h4>
               <small className="text-light"> Experienced </small>
               </div>
             </article>
@@ -130,7 +106,7 @@ const Experience = () => {
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon"/>
               <div>
-              <h4>Open zeppeline</h4>
+              <h4>GO lang</h4>
               <small className="text-light"> Experienced </small>
               </div>
             </article>
@@ -146,7 +122,7 @@ const Experience = () => {
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon"/>
               <div>
-              <h4>Endpoint providers</h4>
+              <h4>C, C++</h4>
               <small className="text-light"> Experienced </small>
               </div>
             </article>
@@ -161,7 +137,7 @@ const Experience = () => {
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon"/>
               <div>
-              <h4>Remix</h4>
+              <h4>Foundry</h4>
               <small className="text-light"> Experienced </small>
               </div>
             </article>
@@ -176,8 +152,29 @@ const Experience = () => {
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon"/>
               <div>
-              <h4>Research</h4>
-              <small className="text-light"> Versatile </small>
+              <h4> Security research and audits</h4>
+              <small className="text-light"> Experienced </small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon"/>
+              <div>
+              <h4> Defi Analysis</h4>
+              <small className="text-light"> Experienced </small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon"/>
+              <div>
+              <h4> Tokenisation and tokenomics</h4>
+              <small className="text-light"> Experienced </small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon"/>
+              <div>
+              <h4> De-fi & Game-fi</h4>
+              <small className="text-light"> Experienced </small>
               </div>
             </article>
           </div>

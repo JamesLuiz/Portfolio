@@ -66,10 +66,10 @@ const About = () => {
             </article>
           </div>
           <p style={{color: 'white', backgroundColor: '#2c2c6c', textAlign: 'center', padding: '2rem', borderRadius: '2rem', fontSize: '0.8rem'}}>
-              I am a Blockchain developer with strong
-              passion for blockchain technologies and
-              innovations.  
-              I work well with EVM compatible platforms and build different kinds of smart contracts and Dapp integrations,
+              Experienced blockchain developer and security researcher with over 3 years of
+              expertise in various levels of EVM smart contract development and auditing, DeFi
+              apps, and protocols development with Proven track record of creating responsive
+              blockchain applications.
               Let me know how my skills can contribute to the growth of your company.
           </p>
             

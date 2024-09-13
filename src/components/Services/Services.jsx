@@ -78,12 +78,22 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BsShieldFillCheck className='service__list-icon'/>
-              <p>Token Contracts</p>
+              <p>ERC20 & NFTs Token Contracts</p>
 
             </li>
             <li>
               <BsShieldFillCheck className='service__list-icon'/>
-              <p>Crowdsale Contracts (ICO websites)</p>
+              <p>RWA tokenisation contracts</p>
+
+            </li>
+            <li>
+              <BsShieldFillCheck className='service__list-icon'/>
+              <p>Banking contracts</p>
+
+            </li>
+            <li>
+              <BsShieldFillCheck className='service__list-icon'/>
+              <p>Crowdsale Contracts</p>
 
             </li>
             <li>

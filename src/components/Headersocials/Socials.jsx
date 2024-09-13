@@ -25,7 +25,7 @@ const Socials = () => {
         />
       )}</a>
 
-        <a href="https://twitter.com/eliezerjames92" target='_blank'><BsTwitter/> {animationIndex === 1 && (
+      <a href="https://x.com/Devbot_Luiz" target='_blank'><BsTwitter/> {animationIndex === 1 && (
         <TypedText 
           text="Twitter  " 
           typeSpeed={100} 
